@@ -10,3 +10,25 @@ body {
 }
 
 /* Add styles here! */
+.intro-chunk {
+  padding: 16px;
+}
+
+.card {
+  padding-top: 64px;
+  height: 81px;
+  background-color: bisque;
+}
+
+.card p {
+  display: none;
+}
+
+.indented-heading {
+  background-color: blueviolet;
+  width: 90%;
+  margin-bottom: -128px;
+  height: 96px;
+  margin-top: 24px;
+  padding: 16px;
+}
