@@ -89,6 +89,7 @@ main  {
   }
 }
 
+/* Desktop */
 @media screen and (min-width: 800px) {
   .max-width-wrapper {
     width: 60%;
